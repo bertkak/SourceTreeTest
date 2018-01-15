@@ -1,4 +1,9 @@
 this is file2
 i made modification in this file
 
+<<<<<<< HEAD
 OMG I'm creating another branch on same file2
+=======
+this modification should be in the SeriousModOnFile2 Branch
+another modification on SeriousModOnFile2 Branch
+>>>>>>> SeriousModOnFile2
